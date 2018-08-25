@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 1 px;
+}
+
+ul img {
+    width: 250px;
+    height: 185px;
+    padding: 10px;
+}
+
+.def__image {
+    width: 800px;
+    height: 550px;
+}
